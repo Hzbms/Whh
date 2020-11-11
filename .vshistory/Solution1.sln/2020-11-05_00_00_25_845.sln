@@ -11,10 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day3", "day3\day3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendar(日历)", "calendar\calendar(日历).csproj", "{29CA2779-C2B4-4FB3-A5E0-58713818D231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4", "day4\day4.csproj", "{767C0727-A66B-44CA-817C-F532BC5ECE4A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "瞎写空白本", "瞎写空白本\瞎写空白本.csproj", "{D48BE6B2-2643-4E13-B34F-B54DEEC419EC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,14 +33,6 @@ Global
 		{29CA2779-C2B4-4FB3-A5E0-58713818D231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29CA2779-C2B4-4FB3-A5E0-58713818D231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29CA2779-C2B4-4FB3-A5E0-58713818D231}.Release|Any CPU.Build.0 = Release|Any CPU
-		{767C0727-A66B-44CA-817C-F532BC5ECE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{767C0727-A66B-44CA-817C-F532BC5ECE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{767C0727-A66B-44CA-817C-F532BC5ECE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{767C0727-A66B-44CA-817C-F532BC5ECE4A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D48BE6B2-2643-4E13-B34F-B54DEEC419EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D48BE6B2-2643-4E13-B34F-B54DEEC419EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D48BE6B2-2643-4E13-B34F-B54DEEC419EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D48BE6B2-2643-4E13-B34F-B54DEEC419EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
